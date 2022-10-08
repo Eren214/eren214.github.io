@@ -345,9 +345,10 @@ hr{
     margin-top: 0;
     padding-top: 0;
 }
+/*
 .row .card-body img{
     padding-right: 5px;
-}
+}*/
 .row .card-body p{
     color:rgb(95, 73, 218)
 }
